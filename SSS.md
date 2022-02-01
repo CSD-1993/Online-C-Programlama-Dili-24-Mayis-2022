@@ -1,6 +1,6 @@
 # Online C Programlama Dili Kursu – Sık Sorulan Sorular
 
-Aşağıda `Necati Ergin` tarafından verilen `Online C Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda `Kaan Aslan` tarafından verilen `Online C Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. Çok uzun süredir bu konuda eğitim veren bir eğitmen olarak online kursun bir dezavantaj oluşturmadığını görüyorum. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
