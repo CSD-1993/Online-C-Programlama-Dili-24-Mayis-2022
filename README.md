@@ -4,9 +4,8 @@
  Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
 + Kurs __24 Mayıs 2022__ tarihinde başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Kursta irili ufaklı __1000__'in üzerinde ayrı kod yazılacaktır.
 + Dersler __Salı ve Perşembe__ günleri  __19:30 - 22:30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
-+ Kursun toplam süresi __180_ saattir.
++ Kursun toplam süresi 180 saattir.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir. Peşin ödemede %10 indirim uygulanmaktadır. Kurs ücreti 2 taksit olarak ödenebilir.
 
