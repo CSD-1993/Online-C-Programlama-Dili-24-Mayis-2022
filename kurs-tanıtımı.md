@@ -20,7 +20,7 @@ Bu eğitim programına katılabilmek için öğrencilerin daha önce bir program
 Eğitimin toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
+Dersler hafta içi __Salı ve Perşembe__ günleri  __19.45 – 22.45__ saatleri arasında __3'er saat__ olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
