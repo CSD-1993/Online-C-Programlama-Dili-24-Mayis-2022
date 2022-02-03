@@ -7,7 +7,7 @@
 + Dersler __Salı ve Perşembe__ günleri  __19:30 - 22:30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
 + Kursun toplam süresi 180 saattir.
 + Kurs eğitmeni __Kaan Aslan__'dır.
-+ Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir. Peşin ödemede %10 indirim uygulanmaktadır. Kurs ücreti 2 taksit olarak ödenebilir.
++ Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir. Kurs ücreti 2 taksit olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
