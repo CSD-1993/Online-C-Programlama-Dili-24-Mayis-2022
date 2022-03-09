@@ -45,7 +45,6 @@ Dersler hafta içi __Salı ve Perşembe__ günleri  __19.45 – 22.45__ saatleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir Peşin ödemede %10 indirim uygulanmaktadır.
-
+Kurs ücreti __5.400 TL__'dir. Öğrenciler için __4.860 TL__'dir 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.]( https://us02web.zoom.us/meeting/register/tZAqde-vrDwsHtLSsdb8DJeI9NFaB_WLHGLj)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
